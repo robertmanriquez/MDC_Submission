@@ -34,7 +34,7 @@ The methods used are sklearn's implementation of K-Means and various regression 
 (Ridge, Lasso, DecTree).
 
 The results show that it is possible to model some relevent physical properties of small 
-organic molecules (HOMO, LUMO, Polarizability).  Althogh this is used a computational dataset,
+organic molecules (HOMO, LUMO, Polarizability).  Although the data used is a computational dataset,
 this workflow demonstrates that using ML and big data techniques can be useful in physical sciences.
 
 Thank you for reading!
