@@ -16,7 +16,7 @@ The files can be obtained as a zip archive from:
 https://figshare.com/articles/Data_for_6095_constitutional_isomers_of_C7H10O2/1057646
 
 This zipped file contains 133,885 GDB-9 generated .xyz files, which can be converted
-into the .pif format for use with the Citrination platform.
+into both .csv format for general use as well as the .pif format for use with the Citrination platform.
 
 This script will take a user specified range of files from the downloaded archive,
 insert them into a Pandas dataframe, then convert that dataframe into .pif dump.  The
